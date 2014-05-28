@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Game Dev Tycoon
+Comment=Play this game on Steam
+Exec=steam steam://rungameid/239820
+Icon=steam_icon_239820
+Terminal=false
+Type=Application
+Categories=Game;
